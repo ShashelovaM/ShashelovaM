@@ -32,3 +32,7 @@
 </div>
 
 ### :trophy: Достижения :
+
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shiiiiishxx" alt=""/>
+</div>
