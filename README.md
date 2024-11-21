@@ -42,3 +42,9 @@
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashelovaM" alt=""/>
 </div>
+
+### :bar_chart: Статистика активности :
+
+<div>
+  <ing srce"https://github-readme-activity-graph.vercel.app/graph?username=ShashelovaM&theme=dracula" alt=""/>
+</div>
