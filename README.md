@@ -17,3 +17,6 @@
 </div>
 
 ### :hedgehog: Обо мне:
+- :cat2: У меня есть кот
+- :basketball_woman: Я играю в баскетбол
+- :open_book: Читаю книги
