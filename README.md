@@ -1,5 +1,5 @@
 <div id="badges" aling ="cemter">
-  <a href="https://vk.com/id580527823>">
+  <a href="[https://vk.com/id580527823>](https://vk.com/shiiiiishxx)">
     <img src = "https://img. shields. io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
 
